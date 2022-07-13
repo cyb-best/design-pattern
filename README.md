@@ -1,2 +1,2 @@
 # design-pattern
-Java
+It's a  exercise (use Java)
